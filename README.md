@@ -1,2 +1,3 @@
-# poc-predicate
-A POC for predicate
+# POC dotnet Predicate
+
+A POC for predicate in .NET
