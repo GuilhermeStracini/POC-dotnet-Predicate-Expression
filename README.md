@@ -2,6 +2,9 @@
 
 🔬 Proof of Concept of Predicate / Expression Visitor / Query Interceptor pattern in .NET
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/f13b4d71c4dc974b158e/maintainability)](https://codeclimate.com/github/GuilhermeStracini/POC-dotnet-Predicate/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/f13b4d71c4dc974b158e/test_coverage)](https://codeclimate.com/github/GuilhermeStracini/POC-dotnet-Predicate/test_coverage)
+
 https://www.tutorialsteacher.com/csharp/csharp-predicate
 
 https://learn.microsoft.com/en-us/dotnet/api/system.predicate-1?view=net-7.0
