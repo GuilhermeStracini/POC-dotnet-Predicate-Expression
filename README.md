@@ -2,12 +2,12 @@
 
 🔬 Proof of Concept of Predicate / Expression Visitor / Query Interceptor pattern in .NET
 
-[![wakatime](https://wakatime.com/badge/github/GuilhermeStracini/POC-dotnet-Predicate.svg)](https://wakatime.com/badge/github/GuilhermeStracini/POC-dotnet-Predicate)
-[![Maintainability](https://api.codeclimate.com/v1/badges/f13b4d71c4dc974b158e/maintainability)](https://codeclimate.com/github/GuilhermeStracini/POC-dotnet-Predicate/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/f13b4d71c4dc974b158e/test_coverage)](https://codeclimate.com/github/GuilhermeStracini/POC-dotnet-Predicate/test_coverage)
-[![CodeFactor](https://www.codefactor.io/repository/github/GuilhermeStracini/POC-dotnet-Predicate/badge)](https://www.codefactor.io/repository/github/GuilhermeStracini/POC-dotnet-Predicate)
-[![GitHub license](https://img.shields.io/github/license/GuilhermeStracini/POC-dotnet-Predicate)](https://github.com/GuilhermeStracini/POC-dotnet-Predicate)
-[![GitHub last commit](https://img.shields.io/github/last-commit/GuilhermeStracini/POC-dotnet-Predicate)](https://github.com/GuilhermeStracini/POC-dotnet-Predicate)
+[![wakatime](https://wakatime.com/badge/github/GuilhermeStracini/POC-dotnet-Predicate-Expression.svg)](https://wakatime.com/badge/github/GuilhermeStracini/POC-dotnet-Predicate-Expression)
+[![Maintainability](https://api.codeclimate.com/v1/badges/f13b4d71c4dc974b158e/maintainability)](https://codeclimate.com/github/GuilhermeStracini/POC-dotnet-Predicate-Expression/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/f13b4d71c4dc974b158e/test_coverage)](https://codeclimate.com/github/GuilhermeStracini/POC-dotnet-Predicate-Expression/test_coverage)
+[![CodeFactor](https://www.codefactor.io/repository/github/GuilhermeStracini/POC-dotnet-Predicate-Expression/badge)](https://www.codefactor.io/repository/github/GuilhermeStracini/POC-dotnet-Predicate-Expression)
+[![GitHub license](https://img.shields.io/github/license/GuilhermeStracini/POC-dotnet-Predicate-Expression)](https://github.com/GuilhermeStracini/POC-dotnet-Predicate-Expression)
+[![GitHub last commit](https://img.shields.io/github/last-commit/GuilhermeStracini/POC-dotnet-Predicate-Expression)](https://github.com/GuilhermeStracini/POC-dotnet-Predicate-Expression)
 
 ## Links
 
