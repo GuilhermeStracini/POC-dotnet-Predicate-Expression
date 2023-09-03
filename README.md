@@ -1,4 +1,4 @@
-# POC .NET Predicate
+# POC .NET Predicate / Expression
 
 🔬 Proof of Concept of Predicate / Expression Visitor / Query Interceptor pattern in .NET
 
