@@ -12,7 +12,7 @@
 ## Links
 
 -  [C# - Predicate Delegate](https://www.tutorialsteacher.com/csharp/csharp-predicate)
--  [Predicate<T> Delegate](https://learn.microsoft.com/en-us/dotnet/api/system.predicate-1?view=net-7.0)
+-  [Predicate\<T\> Delegate](https://learn.microsoft.com/en-us/dotnet/api/system.predicate-1?view=net-7.0)
 -  [C# Predicate](https://zetcode.com/csharp/predicate/)
 -  [How to work with Action, Func, and Predicate delegates in C#](https://www.infoworld.com/article/3057152/how-to-work-with-action-func-and-predicate-delegates-in-c-sharp.html)
 -  [What is a predicate in c#?](https://stackoverflow.com/questions/1710301/what-is-a-predicate-in-c)
