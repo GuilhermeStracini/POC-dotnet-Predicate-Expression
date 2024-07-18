@@ -22,6 +22,9 @@
 -  [Intercept Database Command in Entity Framework](https://www.entityframeworktutorial.net/entityframework6/database-command-interception.aspx)
 -  [.NET EF Core Interceptors to modify database commands](https://thecodeblogger.com/2021/07/18/net-ef-core-interceptors-to-modify-database-commands/)
 -  [Predicate Combinators in LINQ](https://www.c-sharpcorner.com/UploadFile/04fe4a/predicate-combinators-in-linq/)
--  [ExpressionVisitor Class](https://learn.microsoft.com/en-us/dotnet/api/system.linq.expressions.expressionvisitor?view=net-7.0)
+-  [ExpressionVisitor Class](https://learn.microsoft.com/en-us/dotnet/api/system.linq.expressions.expressionvisitor?view=net-8.0)
+-  [DynamicExpressionVisitor Class](https://learn.microsoft.com/en-us/dotnet/api/system.linq.expressions.dynamicexpressionvisitor?view=net-8.0)
 -  [Why would I want to use an ExpressionVisitor?](https://stackoverflow.com/questions/41432852/why-would-i-want-to-use-an-expressionvisitor)
 -  [GitHub - Bancos Brasileiros MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool/blob/main/BancosBrasileiros.MergeTool/Dto/Bank.cs#L53)
+-  [How to use ExpressionVisitor like a pro?](https://rafalkozlowski.engineer/how-to-use-expressionvisitor-like-a-pro/)
+-  
