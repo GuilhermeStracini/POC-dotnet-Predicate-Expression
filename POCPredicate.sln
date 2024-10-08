@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCPredicate", "Src\POCPredicate\POCPredicate.csproj", "{F633CCCB-0D95-4165-962A-D885BCB624A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{B82A6A20-9197-44DE-8C76-2440D62A296A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F633CCCB-0D95-4165-962A-D885BCB624A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F633CCCB-0D95-4165-962A-D885BCB624A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F633CCCB-0D95-4165-962A-D885BCB624A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F633CCCB-0D95-4165-962A-D885BCB624A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F633CCCB-0D95-4165-962A-D885BCB624A9} = {B82A6A20-9197-44DE-8C76-2440D62A296A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6A67252-83A5-497E-8B31-F77A19296546}
+	EndGlobalSection
+EndGlobal
