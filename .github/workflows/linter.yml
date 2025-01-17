@@ -21,4 +21,4 @@ jobs:
       - name: CSharpier format check
         run: |
           dotnet csharpier . --check
-          echo "run 'dotnet build' to fix the formatting of the code automatically"
+          echo "run 'dotnet csharpier .' to fix the formatting of the code automatically"
