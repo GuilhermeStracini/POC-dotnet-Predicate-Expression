@@ -7,7 +7,4 @@ name = "test-coverage"
 name = "secrets"
 
 [[analyzers]]
-name = "docker"
-
-[[analyzers]]
 name = "csharp"
